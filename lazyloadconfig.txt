@@ -1,0 +1,42 @@
+[
+    [
+        {"title":"Android Development"},
+        {"filename":"1.jpg"},
+        {"desc":"Android application development using Java."}
+    ],
+    [
+        {"title":"Mobile Computing"},
+        {"filename":"2.jpg"},
+        {"desc":"Mobile devices, wireless communication, and mobile applications."}
+    ],
+    [
+        {"title":"Cloud Computing"},
+        {"filename":"3.jpg"},
+        {"desc":"Cloud infrastructure, platforms, and services."}
+    ],
+    [
+        {"title":"Computer Networks"},
+        {"filename":"4.jpg"},
+        {"desc":"Computer networking and Internet communication."}
+    ],
+    [
+        {"title":"Database Systems"},
+        {"filename":"5.jpg"},
+        {"desc":"Database management and data storage systems."}
+    ],
+    [
+        {"title":"Cyber Security"},
+        {"filename":"6.jpg"},
+        {"desc":"Security technologies and practices for protecting information systems."}
+    ],
+    [
+        {"title":"Artificial Intelligence"},
+        {"filename":"7.jpg"},
+        {"desc":"Artificial intelligence and machine learning technologies."}
+    ],
+    [
+        {"title":"Software Engineering"},
+        {"filename":"8.jpg"},
+        {"desc":"Software development methodologies, architecture, and engineering practices."}
+    ]
+]
